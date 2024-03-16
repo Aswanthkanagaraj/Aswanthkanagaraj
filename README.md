@@ -3,16 +3,13 @@
 </div>  
   
 
-### <div align="center">I'm Aswanth Kanagaraj , a full-time full-stack and freelance developer 🚀</div>  
+### <div align="center">I'm Aswanth Kanagaraj, a full-time full-stack freelance developer 👨‍💻 🚀</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
+- 🔭 I’m currently working on freelance  
   
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- 🌱 I’m currently learning vuejs and .Net  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
